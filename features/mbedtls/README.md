@@ -10,7 +10,7 @@ This edition of mbed TLS has been adapted for mbed OS and imported from its stan
 Getting Help and Support
 ------------------------
 
-The [mbed TLS website](https://tls.mbed.org/) contains fulll documentation for the library, including function by function descriptions, knowledgebase articles, blogs and a support forum for questions to the community.
+The [mbed TLS website](https://tls.mbed.org/) contains full documentation for the library, including function by function descriptions, knowledgebase articles, blogs and a support forum for questions to the community.
 
 
 Contributing to the Project
@@ -22,4 +22,3 @@ We gratefully accept bug reports and contributions from the community. There are
 -   For larger contributions, such as a new feature, the code can possibly fall under copyright law. We then need your consent to share in the ownership of the copyright. We have a form for this, which we will send to you in case you submit a contribution or pull request that we deem this necessary for.
 
 Contributions should be submitted to the [standalone mbed TLS project](https://github.com/ARMmbed/mbedtls), not to the mbed OS imported edition of mbed TLS.
-
